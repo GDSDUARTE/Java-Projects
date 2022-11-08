@@ -11,8 +11,6 @@
 * Using example to show the concept of override or overload
 */
 
-package Year2;
-
 import java.util.Scanner;
 
 class Calculator {
