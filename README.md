@@ -2,7 +2,6 @@
 Java Assignments
 
 InClassPractice_01
-  
   Task: 
   * Create a calculator, include function +, -, /, *, and mod.
   * Dynamic initializes a two-dimension array, and print out all value
