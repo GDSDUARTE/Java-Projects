@@ -4,10 +4,10 @@ Java Assignments
 ElectricitySupplier
 	
 	Task: 
-		A domestic electricity supplier has asked you to write a simple program for them to help 
+	A domestic electricity supplier has asked you to write a simple program for them to help 
 	their urban 24 Hour meter customers to calculate the estimated annual electricity bill. 
 
-		An example of how the Estimated Annual Bill is calculated for an electricity 
+	An example of how the Estimated Annual Bill is calculated for an electricity 
 	Urban 24 Hour meter customer on the standard tariff, is given below.
 
 		Annual Standing Charge excl VAT €183.96.
