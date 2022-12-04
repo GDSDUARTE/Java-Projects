@@ -1,7 +1,7 @@
 /**
- * Student name: Guilherme Duarte da Silva
- * Student ID: 25662
- * Email: 25662@student.dorset-college.ie
+* CA2: Programming Essentials
+* Student name: Guilherme Duarte da Silva
+* Student ID: 25662
 */
 
 import java.util.*;

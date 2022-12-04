@@ -1,7 +1,6 @@
 /*
 * CA1: Object-Oriented Programming
 * Name: Guilherme Duarte da Silva
-* Email: 25662@student.dorset-college.ie
 * ID: 25662
 *
 * Task: 

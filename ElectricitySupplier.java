@@ -1,7 +1,6 @@
 /*
 * CA1: Programming Essentials
 * Name: Guilherme Duarte da Silva
-* Email: 25662@student.dorset-college.ie
 * ID: 25662
 *
 * Task: 
@@ -13,8 +12,8 @@
 *
 *     Annual Standing Charge excl VAT €183.96.
 *     Unit Rate excl VAT 21.12 cent per kWh
-*   	Average Annual Consumption 4200kWh*
-*   	Annual PSO Levy excl VAT €51.60
+*     Average Annual Consumption 4200kWh*
+*   Annual PSO Levy excl VAT €51.60
 *
 *   Annual Electricity Charge 21.12 x 4200kWh €887.04
 *   Total excl VAT €1,122.60  (= 183.96 + 51.60 + 887.04 )
