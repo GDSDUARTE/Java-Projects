@@ -6,6 +6,7 @@
 * ID: 25662
 */
 
+// Create a class that implements the Runnable interface.
 class Task3 implements Runnable {
 
     @Override
