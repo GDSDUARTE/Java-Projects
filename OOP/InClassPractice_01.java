@@ -54,7 +54,7 @@ class Mod extends Calculator {
     }
 }
 
-public class InClassPractice_01_25662 {
+public class InClassPractice_01 {
     public static void main(String[] args) {
 
         // Calling the classes and methods from the classes above to use in the main

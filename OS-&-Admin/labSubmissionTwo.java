@@ -2,7 +2,6 @@
 * CA2: Operating Systems & Administration
 * Lab: Concurrency
 * Name: Guilherme Duarte da Silva
-* Email: 25662@student.dorset-college.ie
 * ID: 25662
 */
 
@@ -56,7 +55,7 @@ class Thread4 extends Thread {
 }
 
 // Main class
-public class labSubmissionTwo_25662 {
+public class labSubmissionTwo {
     public static void main(String[] args) {
 
         System.out.println("== Application Started ==");

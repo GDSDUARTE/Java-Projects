@@ -67,7 +67,7 @@ class Teacher extends Person {
     }
 }
 
-public class InClassPractice_02_25662 {
+public class InClassPractice_02 {
     public static void main(String[] args) {
         File f = new File("collegeDatabase.txt");
         

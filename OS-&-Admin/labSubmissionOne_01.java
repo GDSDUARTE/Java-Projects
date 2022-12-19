@@ -1,13 +1,11 @@
 /*
 * CA1: Operating Systems & Administration
-* Lab: Threads / Runable
+* Lab: Threads
 * Name: Guilherme Duarte da Silva
-* Email: 25662@student.dorset-college.ie
 * ID: 25662
 */
 
-// Create a class that implements the Runnable interface.
-class Task3 implements Runnable {
+class Task1 extends Thread {
 
     @Override
     public void run() {
@@ -20,14 +18,10 @@ class Task3 implements Runnable {
 
         System.out.println("Exiting Print Function in the Class");
     }
+
 }
 
-class GeneralTask {
-    int genTaskNum;
-    int genTaskName;
-}
-
-class Task4 extends GeneralTask implements Runnable {
+class Task2 extends Thread {
 
     @Override
     public void run() {
@@ -40,23 +34,21 @@ class Task4 extends GeneralTask implements Runnable {
 
         System.out.println("Exiting Print Function in the Class");
     }
+
 }
 
-public class labSubmissionOne_02_25662 {
+public class labSubmissionOne_01 {
     public static void main(String[] args) {
 
         //Task1
         System.out.println("** Starting Main **");
 
         //Task2
-        Runnable task3 = new Task3();
-        Runnable task4 = new Task4();
+        Task1 task1 = new Task1();
+        Task2 task2 = new Task2();
 
-        Thread thread3 = new Thread(task3);
-        Thread thread4 = new Thread(task4);
-
-        thread3.start();
-        thread4.start();
+        task1.start();
+        task2.start();
 
         //Task3
         System.out.println("** Ending Main **");

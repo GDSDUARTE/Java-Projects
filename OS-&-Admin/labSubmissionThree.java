@@ -2,7 +2,6 @@
 * CA3: Operating Systems & Administration
 * Lab: Semaphore
 * Name: Guilherme Duarte da Silva
-* Email: 25662@student.dorset-college.ie
 * ID: 25662
 */
 
@@ -68,7 +67,7 @@ class Vehicles extends Thread {
 
 }
 
-public class labSubmissionThree_25662 {
+public class labSubmissionThree {
     public static void main(String[] args) {
 
         // Semaphore
